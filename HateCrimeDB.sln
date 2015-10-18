@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HateCrimeDB", "HateCrimeDB\HateCrimeDB.csproj", "{378CD71C-540A-44AB-A258-ACF26B57F652}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HateCrimeDB.Services", "HateCrimeDB.Services\HateCrimeDB.Services.csproj", "{D790D7D3-76F9-42DE-9DEC-B7EAE5C1CEFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HateCrimeDB.Domain", "HateCrimeDB.Domain\HateCrimeDB.Domain.csproj", "{84F22D06-03E5-45B7-A15F-5B69DF46D286}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HateCrimeDB.Data", "HateCrimeDB.Repositories\HateCrimeDB.Data.csproj", "{B56780D3-001A-4CEC-9755-B560B4CD5DFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{378CD71C-540A-44AB-A258-ACF26B57F652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{378CD71C-540A-44AB-A258-ACF26B57F652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{378CD71C-540A-44AB-A258-ACF26B57F652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{378CD71C-540A-44AB-A258-ACF26B57F652}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D790D7D3-76F9-42DE-9DEC-B7EAE5C1CEFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D790D7D3-76F9-42DE-9DEC-B7EAE5C1CEFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D790D7D3-76F9-42DE-9DEC-B7EAE5C1CEFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D790D7D3-76F9-42DE-9DEC-B7EAE5C1CEFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84F22D06-03E5-45B7-A15F-5B69DF46D286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84F22D06-03E5-45B7-A15F-5B69DF46D286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84F22D06-03E5-45B7-A15F-5B69DF46D286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84F22D06-03E5-45B7-A15F-5B69DF46D286}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B56780D3-001A-4CEC-9755-B560B4CD5DFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B56780D3-001A-4CEC-9755-B560B4CD5DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B56780D3-001A-4CEC-9755-B560B4CD5DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B56780D3-001A-4CEC-9755-B560B4CD5DFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
